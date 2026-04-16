@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey💫 I'm Amar:
 ## 🚀 About Me<br><br>🎓 Currently pursuing Bachelor of Computer Applications (BCA) from Amity University Jharkhand<br>💻 Strong foundation in programming languages: Java, Python, C<br>🌐 Skilled in web development: HTML, CSS, JavaScript<br>📚 Good understanding of core subjects: DBMS and Operating Systems<br>🔧 Familiar with version control using Git<br>🤝 Open to collaboration and continuously improving my technical skills<br><br>💡 I enjoy building practical projects, exploring new technologies, and strengthening my problem-solving abilities.<br>
 
 
